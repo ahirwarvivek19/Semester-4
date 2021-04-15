@@ -2,7 +2,7 @@
  This Repository contains all the assignments solution given in semster four
 
 
-        # Semester - 4 ([Syllabus](https://drive.google.com/file/d/1zw_1S41Zr4_u9fepeGB7iIYfOm5k-mnQ/view?usp=sharing)) ([Material](https://drive.google.com/drive/folders/1jeX_TuXOuqV6V2KCP3965GYYGcecGbFP?usp=sharing))
+# Semester - 4 ([Syllabus](https://drive.google.com/file/d/1zw_1S41Zr4_u9fepeGB7iIYfOm5k-mnQ/view?usp=sharing)) ([Material](https://drive.google.com/drive/folders/1jeX_TuXOuqV6V2KCP3965GYYGcecGbFP?usp=sharing))
 
 - The material of each subject is in the link attached to the name of the subject, the material included books and notes...
 
