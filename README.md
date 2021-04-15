@@ -6,7 +6,7 @@
 
 - The material of each subject is in the link attached to the name of the subject, the material included books and notes...
 
-[**PQT**](https://drive.google.com/drive/folders/1_aIXpvdZ--Mv3M8YG8X1294FgFTNYzWw?usp=sharing) **:**
+## [**PQT**](https://drive.google.com/drive/folders/1_aIXpvdZ--Mv3M8YG8X1294FgFTNYzWw?usp=sharing) **:**
 
 [Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EZPC4BOZcOrXObPaUjf5kK)
 
@@ -44,7 +44,7 @@ _Important link_
 
 [_https://youtu.be/Z7o6ixxyhys_](https://youtu.be/Z7o6ixxyhys)
 
-[**CA**](https://drive.google.com/drive/folders/1Qb3fLUVSJ4lwVGcCyg3zEwG8Wer7eiVJ?usp=sharing) **:**
+## [**CA**](https://drive.google.com/drive/folders/1Qb3fLUVSJ4lwVGcCyg3zEwG8Wer7eiVJ?usp=sharing) **:**
 
 [Recorded Lectures](https://youtube.com/playlist?list=PLZtXYEBR7y6EBL3FwBErUNuDCGr2p6exe)
 
@@ -72,9 +72,9 @@ _Important links_
 
 [_https://www.geeksforgeeks.org/gate-corner-2-gq/_](https://www.geeksforgeeks.org/gate-corner-2-gq/)
 
-[**DBMS**](https://drive.google.com/drive/folders/1DvHOZk6w5G2NAENf0xSOBmCKGlCNu2nj?usp=sharing) **:**
+## [**DBMS**](https://drive.google.com/drive/folders/1DvHOZk6w5G2NAENf0xSOBmCKGlCNu2nj?usp=sharing) **:**
 
-[**NPTEL**](https://www.youtube.com/playlist?list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh)
+[NPTEL](https://www.youtube.com/playlist?list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh)
 
 [Recorded Lectures](https://www.youtube.com/watch?v=YR6FJcbnwQY&amp;list=PLZtXYEBR7y6GnlMG1zwWvj-oQTJ22kGb8)
 
@@ -94,7 +94,7 @@ _Knowlege Gate:_
 
 [_https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV_](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
 
-[**TOC**](https://drive.google.com/drive/folders/1nmffCfJr1cQ3gCcfc7jLskoCanNBMbt7?usp=sharing) **:**
+## [**TOC**](https://drive.google.com/drive/folders/1nmffCfJr1cQ3gCcfc7jLskoCanNBMbt7?usp=sharing) **:**
 
 [Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EPxFrOxpshYJ9DE8DvpNYA)
 
@@ -116,7 +116,7 @@ _GFG_
 
 [_https://www.geeksforgeeks.org/lmn-toc/_](https://www.geeksforgeeks.org/lmn-toc/)
 
-[**ADA:**](https://drive.google.com/drive/folders/1tpxIAAZBWFZQhOkVSGScbrw9xXxTX7Ty?usp=sharing)
+## [**ADA:**](https://drive.google.com/drive/folders/1tpxIAAZBWFZQhOkVSGScbrw9xXxTX7Ty?usp=sharing)
 
 [Recorded Lectures](https://youtube.com/playlist?list=PLZtXYEBR7y6EBL3FwBErUNuDCGr2p6exe)
 
@@ -130,7 +130,7 @@ For competitive Prog.
 
 Will be guided soon…….
 
-[**SE:**](https://drive.google.com/drive/folders/16yzQprtckRO3YHGX_1kJ_NmdRxwFKtNV?usp=sharing)
+##[**SE:**](https://drive.google.com/drive/folders/16yzQprtckRO3YHGX_1kJ_NmdRxwFKtNV?usp=sharing)
 
 [Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6FQgtDGlhBuCs64w6enWOAk)
 
@@ -142,11 +142,11 @@ Notes &amp; Previous year papers
 
 [https://drive.google.com/drive/folders/1pTlJLLSHKHtr5q6qISgVTPjJ1X9OV4JA?usp=sharing](https://drive.google.com/drive/folders/1pTlJLLSHKHtr5q6qISgVTPjJ1X9OV4JA?usp=sharing)
 
-**LAB Recorded Lectures:**
+## **LAB Recorded Lectures:**
 
 [https://youtube.com/playlist?list=PLZtXYEBR7y6GKO8R9mvXtIxVsEm6EvCEy](https://youtube.com/playlist?list=PLZtXYEBR7y6GKO8R9mvXtIxVsEm6EvCEy)
 
-DBMS LAB:
+##DBMS LAB:
 
 ~~Ruko jara sabr kro, ab thak gya hu me vro……~~
 
@@ -160,7 +160,7 @@ _ **Sirf 6 videos he SQL ke - 1-din me dekh lena sab** _
 
 _ **Lab ki sari Queries ho jayegi** _
 
-JAVA &amp; PHP Lab:
+J##AVA &amp; PHP Lab:
 
 PHP LAB:
 
