@@ -242,7 +242,7 @@ JAVA LAB:
 
 
 ## TimeTable 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![TimeTable](https://github.com/ahirwarvivek19/Semester-4/blob/main/TimeTable.png "TimeTable")
 
 ## **Special Perks:**
 
