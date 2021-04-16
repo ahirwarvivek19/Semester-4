@@ -8,7 +8,7 @@ This repository contains solutions to all the assignments given in semester 4
 
 ## Probability and Queueing Theory
 
-[[Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EZPC4BOZcOrXObPaUjf5kK)] | [[Drive](https://drive.google.com/drive/folders/1_aIXpvdZ--Mv3M8YG8X1294FgFTNYzWw?usp=sharing)]
+[[Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EZPC4BOZcOrXObPaUjf5kK)] | [[Drive](https://drive.google.com/drive/folders/1_aIXpvdZ--Mv3M8YG8X1294FgFTNYzWw?usp=sharing)]
 
 Mainly from Sandeep sir&rsquo;s class notes  
 
@@ -45,7 +45,7 @@ _Important links_
 
 ## Computer Architecture
 
-[[Lectures](https://youtube.com/playlist?list=PLZtXYEBR7y6EBL3FwBErUNuDCGr2p6exe)] | [[Drive](https://drive.google.com/drive/folders/1Qb3fLUVSJ4lwVGcCyg3zEwG8Wer7eiVJ?usp=sharing)]
+[[Recorded Lectures](https://youtube.com/playlist?list=PLZtXYEBR7y6EBL3FwBErUNuDCGr2p6exe)] | [[Drive](https://drive.google.com/drive/folders/1Qb3fLUVSJ4lwVGcCyg3zEwG8Wer7eiVJ?usp=sharing)]
 
 **Memory**
 - Memory Hierarchy
@@ -97,7 +97,7 @@ _Important links_
 
 ## Theory of Computation
 
-[[Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EPxFrOxpshYJ9DE8DvpNYA)] | [[Drive](https://drive.google.com/drive/folders/1nmffCfJr1cQ3gCcfc7jLskoCanNBMbt7?usp=sharing)]
+[[Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EPxFrOxpshYJ9DE8DvpNYA)] | [[Drive](https://drive.google.com/drive/folders/1nmffCfJr1cQ3gCcfc7jLskoCanNBMbt7?usp=sharing)]
 
 - Finite State Systems
 - Regular Expressions
@@ -154,7 +154,7 @@ _Important Links_
 
 ## DBMS
 
-[[Lectures](https://www.youtube.com/watch?v=YR6FJcbnwQY&list=PLZtXYEBR7y6GnlMG1zwWvj-oQTJ22kGb8)] | [[Drive](https://drive.google.com/drive/folders/1DvHOZk6w5G2NAENf0xSOBmCKGlCNu2nj?usp=sharing)]
+[[Recorded Lectures](https://www.youtube.com/watch?v=YR6FJcbnwQY&list=PLZtXYEBR7y6GnlMG1zwWvj-oQTJ22kGb8)] | [[Drive](https://drive.google.com/drive/folders/1DvHOZk6w5G2NAENf0xSOBmCKGlCNu2nj?usp=sharing)]
 
 - Relational model and basics of DBMS
 - Relational algebra
@@ -199,7 +199,7 @@ Abdul Bari: <https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szj
 
 ## SE
 
-[[Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6FQgtDGlhBuCs64w6enWOAk)] | [[Drive](https://drive.google.com/drive/folders/16yzQprtckRO3YHGX_1kJ_NmdRxwFKtNV?usp=sharing)]
+[[Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6FQgtDGlhBuCs64w6enWOAk)] | [[Drive](https://drive.google.com/drive/folders/16yzQprtckRO3YHGX_1kJ_NmdRxwFKtNV?usp=sharing)]
 
 
 - Introduction to software engineering, 
