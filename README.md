@@ -224,7 +224,7 @@ Abdul Bari: <https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szj
 [Notes & Previous Year Papers](https://drive.google.com/drive/folders/1pTlJLLSHKHtr5q6qISgVTPjJ1X9OV4JA?usp=sharing)
 
 
-**LAB Recorded Lectures:**
+### **LAB Recorded Lectures:**
 [https://youtube.com/playlist?list=PLZtXYEBR7y6GKO8R9mvXtIxVsEm6EvCEy](https://youtube.com/playlist?list=PLZtXYEBR7y6GKO8R9mvXtIxVsEm6EvCEy)
 
 
@@ -240,6 +240,9 @@ JAVA LAB:
 1. JavaTpoint
 2. GFG
 
+
+## TimeTable 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 ## **Special Perks:**
 
