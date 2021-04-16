@@ -191,7 +191,7 @@ Knowledge Gate: <https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaN
 - Graph Traversals
 - Backtracking: N-queens problem
 - Branch and bound: 0/1 Knapsack, Job Schdulling, Travelling Salesman
-- ~~Introduction to lower-bound theory, Search Trees: BST, AVL, B and B+ trees. ~~
+- ~~Introduction to lower-bound theory, Search Trees: BST, AVL, B and B+ trees~~
 - ~~Introduction to NP-Complete and NP Hard problems~~
 
 Abdul Bari: <https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O>
