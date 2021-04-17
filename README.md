@@ -4,7 +4,7 @@ This repository contains solutions to all the assignments given in semester 4
 
 # Roadmap
 
-[[Syllabus](https://drive.google.com/file/d/1zw_1S41Zr4_u9fepeGB7iIYfOm5k-mnQ/view?usp=sharing){target="_blank"}] | [[Material](https://drive.google.com/drive/folders/1jeX_TuXOuqV6V2KCP3965GYYGcecGbFP?usp=sharing)]
+[[Syllabus](https://drive.google.com/file/d/1zw_1S41Zr4_u9fepeGB7iIYfOm5k-mnQ/view?usp=sharing)] | [[Material](https://drive.google.com/drive/folders/1jeX_TuXOuqV6V2KCP3965GYYGcecGbFP?usp=sharing)]
 
 ## Probability and Queueing Theory
 
