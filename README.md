@@ -223,9 +223,9 @@ Abdul Bari: <https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szj
 
 [Notes & Previous Year Papers](https://drive.google.com/drive/folders/1pTlJLLSHKHtr5q6qISgVTPjJ1X9OV4JA?usp=sharing)
 
-### **[End Term Papers 2020](https://drive.google.com/drive/folders/1UuENoqHlerE_iPRYIKHK2iCaC9zrWzOt?usp=sharing)**
+## **[End Term Papers 2020 (Previous Year) ](https://drive.google.com/drive/folders/1UuENoqHlerE_iPRYIKHK2iCaC9zrWzOt?usp=sharing)**
 
-### **LAB Recorded Lectures:**
+## **LAB Recorded Lectures:**
 [https://youtube.com/playlist?list=PLZtXYEBR7y6GKO8R9mvXtIxVsEm6EvCEy](https://youtube.com/playlist?list=PLZtXYEBR7y6GKO8R9mvXtIxVsEm6EvCEy)
 
 
