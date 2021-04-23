@@ -100,6 +100,7 @@ _Important links_
 [[Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EPxFrOxpshYJ9DE8DvpNYA)] | [[Drive](https://drive.google.com/drive/folders/1nmffCfJr1cQ3gCcfc7jLskoCanNBMbt7?usp=sharing)]
 
 Neso <https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev>
+
 **Syllabus**
 - Finite State Systems
 - Regular Expressions
