@@ -99,6 +99,8 @@ _Important links_
 
 [[Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EPxFrOxpshYJ9DE8DvpNYA)] | [[Drive](https://drive.google.com/drive/folders/1nmffCfJr1cQ3gCcfc7jLskoCanNBMbt7?usp=sharing)]
 
+Neso <https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev>
+**Syllabus**
 - Finite State Systems
 - Regular Expressions
 - Output machines
@@ -113,7 +115,7 @@ _Important links_
 - Undecidability 
 - Chomsky Hierarchy
 
-**Detailed topics**
+**Detailed topics list upto mid only**
 
 - NFA
 - DFA
@@ -141,6 +143,7 @@ Mealy Machine, Morre Machine, Conversions
 - Ambiguous grammar
 - Simplification of grammar
 - Normalisation of grammar (CNG, GNF)
+
 
 RBR: <https://www.youtube.com/playlist?list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK>  
 Knowledge Gate: <https://www.youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T>
