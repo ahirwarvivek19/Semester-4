@@ -179,7 +179,7 @@ Knowledge Gate: <https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaN
 
 ## ADA
 
-[[Lectures](https://youtube.com/playlist?list=PLZtXYEBR7y6EBL3FwBErUNuDCGr2p6exe)] | [[Drive](https://drive.google.com/drive/folders/1tpxIAAZBWFZQhOkVSGScbrw9xXxTX7Ty?usp=sharing)]
+[[Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6GqYH97UfPunrcxx0Wrr2hR)] | [[Drive](https://drive.google.com/drive/folders/1tpxIAAZBWFZQhOkVSGScbrw9xXxTX7Ty?usp=sharing)]
 
 **Basics**
 - Fundamentals of algorithm
