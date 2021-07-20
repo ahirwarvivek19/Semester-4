@@ -8,7 +8,8 @@ This repository contains solutions to all the assignments given in semester 4
 
 ## Probability and Queueing Theory
 
-<!-- [[Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EZPC4BOZcOrXObPaUjf5kK)] | -->[[Drive](https://drive.google.com/drive/folders/1_aIXpvdZ--Mv3M8YG8X1294FgFTNYzWw?usp=sharing)] 
+<!-- [[Recorded Lectures](https://www.youtube.com/playlist?list=PLZtXYEBR7y6EZPC4BOZcOrXObPaUjf5kK)] | -->
+[[Drive](https://drive.google.com/drive/folders/1_aIXpvdZ--Mv3M8YG8X1294FgFTNYzWw?usp=sharing)] 
 
 Mainly from Sandeep sir&rsquo;s class notes  
 
