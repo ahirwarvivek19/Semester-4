@@ -252,18 +252,6 @@ JAVA LAB:
 2. GFG
 
 
-## TimeTable 
-![TimeTable](https://github.com/ahirwarvivek19/Semester-4/blob/main/TimeTable.png "TimeTable")
-
-## **Special Perks:**
-
-**✨ RBR GATE ✨**
-- RBR GATE part 1 - <https://mega.nz/folder/4xwE1BzB#YCXifHQtayL7-kE1Z8VbPA>
-- RBR GATE part 2 - <https://mega.nz/folder/V85k0BbZ#Rt8v7NRu1D2-COyMYpy-Tg>
-- RBR GATE part 3 - <https://mega.nz/folder/RsxwmRwI#FQoqL6VLlkHW4wWUDNXepA>
-- RBR GATE Part 4 - <https://mega.nz/folder/8gBBEaoS#MoZ9XG-rSlZAtJ-ubNjGjg>
-- RBR GATE Missing Videos - <https://mega.nz/folder/hsQ3BADQ#5nP5kvxJlYATChbxqUxcag>
-
 **Some Good Channels For DSA and CP**
 
 - Aditya Verma
